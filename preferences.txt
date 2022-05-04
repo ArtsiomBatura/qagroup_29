@@ -1,0 +1,66 @@
+fistName: Artem
+  lastName: Batura
+  myFavorits: 
+  
+        type: movie,
+        name: Avengers Andgame
+   
+        type: movie,
+        name: Avengers Infinity War
+   
+        type: movie,
+        name: Spider Man: No Way Home
+   
+        type: movie,
+        name: Snatch
+   
+        type: movie,
+        name: The Gentlemen
+
+        type: TVSeries,
+        name: 11.22.63
+    
+        type: TVSeries,
+        name: Daredevil
+   
+        type: TVSeries,
+        name: "oki
+  
+        type: TVSeries,
+        name: Peacemaker
+    
+        type: TVSeries,
+        name: The Boys
+    
+        type: Country,
+        name: Italy
+  
+        type: Country,
+        name: USA
+   
+        type: Country,
+        name: Bali
+    
+        type: Country,
+        name: Switzerland
+    
+        type: Country,
+        name: Ireland
+    
+        type: Food,
+        name: Pasta with shrimps
+    
+        type: Food,
+        name: Pizza with ham and mushrooms
+    
+        type: Food,
+        name: Dumplings
+    
+        type: Food,
+        name: Salami
+    
+        type: Food,
+        name: prosciutto
+    
+        type: Time of the year,
+        "name": summer
