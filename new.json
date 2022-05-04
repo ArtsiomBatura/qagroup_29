@@ -1,0 +1,31 @@
+[
+     {
+
+            "fistName":"Artem",
+            "lastName":"Batura",
+            "age":"28",
+            "desiredProf":"QA manual",
+            "email":"artembatura266@gmail.com",
+            "animals":
+                [
+                      {
+                          "type":"dog",
+                          "name":"Thanos",
+                          "breed":"french bulldog"
+                      },
+                    {
+                          "type":"cat",
+                          "name":"Marbius",
+                          "breed": "fluffy"
+                      }
+
+                ]
+     }
+]
+
+
+	
+	
+
+
+
