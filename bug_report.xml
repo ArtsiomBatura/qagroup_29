@@ -1,0 +1,16 @@
+<xml>
+    <age>28</age>
+    <family:> {
+        <children:> 
+            
+                <name>Alex</name>
+                <age>24</age>
+            
+                <name>Kate</name>
+                <age>12</age>
+        </children:>
+    </family:>
+        <u_salary_1_5_year>6000</u_salary_1_5_year>"
+    <name>Artem</name>
+    <salary>1500</salary> 
+</xml>
