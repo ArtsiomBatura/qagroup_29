@@ -1,0 +1,91 @@
+<xml>
+
+    <fistName>Artem</fistName>
+
+    <lastName>Batura</lastName>
+    <myFavorits>
+        <movie>
+
+            <type>movie</type>
+            <name>Avengers Andgame</name>
+
+
+            <type> movie</type>
+
+            <name>Avengers Infinity War</name>
+
+
+            <type>movie</type>
+            <name>Spider Man: No Way Home</name>
+
+
+            <type>movie</type>
+            <name>Snatch</name>
+
+            <type>movie</type>
+            <name>The Gentlemen</name>
+
+        </movie>
+        <TVSeries>
+
+            <type>TVSeries</type>
+            <name>11.22.63</name>
+
+
+            <type>TVSeries</type>
+            <name>Daredevil</name>
+
+
+            <type>TVSeries</type>
+            <name>Loki</name>
+
+
+            <type>TVSeries</type>
+            <name>Peacemaker</name>
+
+
+            <type>TVSeries</type>
+            <name>The Boys</name>
+        </TVSeries>
+        <Country>
+            <type>Country</type>
+            <name>Italy</name>
+
+            <type>Country</type>
+            <name>USA</name>
+
+            <type>Country</type>
+            <name>Bali</name>
+
+            <type>Country</type>
+            <name>Switzerland</name>
+
+            <type>Country</type>
+            <name>Ireland</name>
+        </Country>
+        <Food>
+            <type>Food</type>
+            <name>Pasta with shrimps</name>
+
+            <type>Food</type>
+            <name>Pizza with ham and mushrooms</name>
+
+            <type>Food</type>
+            <name>Dumplings</name>
+
+            <type>Food</type>
+            <name>Salami</name>
+
+            <type>Food</type>
+            <name>Prosciutto</name>
+
+            <type>Food</type>
+            <name>Pasta with shrimps</name>
+        </Food>
+        <Time>
+            <type>Time of the year</type>
+            <name>summer</name>
+        </Time>
+
+    </myFavorits>
+</xml>
