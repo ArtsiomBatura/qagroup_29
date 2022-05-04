@@ -1,0 +1,65 @@
+{
+	"fistName": "Artem",
+"lastName": "Batura",
+"skills": 
+[
+    {
+        "type":"skill",
+        "name":"Quality control"
+    },
+    {
+        "type":"skill",
+        "name":"Check list"
+    },
+    {
+        "type":"skill",
+        "name":"Test case"
+    },
+    {
+        "type":"skill",
+        "name":"Manual testing"
+    },
+    {
+        "type":"skill",
+        "name":"Functional testing"
+    },
+    {
+        "type":"skill",
+        "name":"Unit testing"
+    },
+    {
+        "type":"skill",
+        "name":"Regression testing"
+    },
+    {
+        "type":"skill",
+        "name":"Bug report"
+    },
+    {
+        "type":"skill",
+        "name":"Requirements analysis"
+    },
+    {
+        "type":"skill",
+        "name":"Atlassian Jira"
+    },
+    {
+        "type":"skill",
+        "name":"SQL"
+    },
+    {
+        "type":"skill",
+        "name":"Dev tools"
+    },
+    {
+        "type":"skill",
+        "name":"Postman"
+    },
+    {
+        "type":"skill",
+        "name":"Fiddler"
+    }
+]
+
+
+}
