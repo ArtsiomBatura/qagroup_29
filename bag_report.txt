@@ -1,0 +1,18 @@
+^
+Summary: [Вкладка Home] на website test не оформлена 404 страница.
+
+Severity: Minor.
+
+Environment: Windows 10. X64. Google Chrome 96.0.4664.45
+
+Precondition: Пройти на  website https://
+
+Steps: 1. В конце URL ввести любые символы.
+       2. Нажать на Enter.
+
+Actual result: 1. После изменений в URL страница обновляется и лишние символы из URL удаляются.
+
+Expected Result: 1. Открывается страница ошибки 404.
+
+Attachment: /////
+
