@@ -14,4 +14,4 @@ Actual result: 1. После изменений в URL страница обно
 
 Expected Result: 1. Открывается страница ошибки 404.
 
-Attachment: sic.jpg
+Attachment: sic.jpg, sic_1.jpg
